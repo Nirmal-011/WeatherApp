@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./Weather.css";
 
 import searchIcon from "../assets/search.png";
-import WeatherDetails from "./weatherDetails";
+import WeatherDetails from "./WeatherDetails";
 import cloudIcon from "../assets/cloud.png";
 import drizzleIcon from "../assets/drizzle.png";
 import humidityIcon from "../assets/humidity.png";
